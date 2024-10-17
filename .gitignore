@@ -3,6 +3,12 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+/src/main/resources/data/taxis/*
+/src/main/resources/data/trajectories-01/**
+/src/main/resources/data/trajectories-02/**
+/src/main/resources/.env
+
+
 ### IntelliJ IDEA ###
 .idea/**
 .idea/modules.xml
